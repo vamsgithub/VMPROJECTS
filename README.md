@@ -1,3 +1,3 @@
 # VMPROJECTS
   This repo contains all of my projects 
-[single_page_cv](./vamsgithub-projects-1/single-page-cv.html)
+[single_page_cv](https://roadmap.sh/projects/single-page-cv)
