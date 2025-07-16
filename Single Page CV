@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <Style>
+        body{
+justify-content: center;
+        }
+        hr{
+            justify-content: flex-start;
+            width:60%;
+        }
+        h4{
+            color: aquamarine;
+        }
+        h3{
+            color: deepskyblue;
+        }
+        a{
+            text-decoration: none;
+        }
+        #box{
+            height: 700px;
+            width:500px;
+    text-align: left;
+        }
+    </Style>
+</head>
+<body>
+    <hr>
+    <div id="box">
+    <h2>Vamshi Myakala</h2>
+    <h4>Java Developer</h4>
+    <pre>Tukaram Gate Main Road,
+        Hyderabad,500017
+        8104951578,
+        vams@gmail.com
+    </pre>
+    <h4>Skills</h4>
+    <pre>HTML,CSS,Javascript,Java,hibernate,jdbc,servlet,
+        postman,team building        
+    </pre>
+    <h4>Education</h4>
+    <h3>Thakur collage ,Kandivali Mumbai- Degree</h3>
+    <p>Month 2020 to Month 2023</p>
+    <pre>
+    skills: presentation 
+    skills:time management</pre>
+    <h4>Across the internet</h4>
+    <a href="https://www.linkedin.com/in/vamshi-myakala-05437422a/">Linkedin</a>
+    <a href="https://github.com/vamsgithub">Github</a>
+    </div>
+</body>
+</html>
